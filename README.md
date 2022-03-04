@@ -12,6 +12,10 @@ O desafio consistia em criar uma aplicação do zero, desde o front-end até a i
    <img height="500px" src=".github/image.jpg">
 </h1>
 
+<h1 align="center" display="flex">
+   <img height="500px" src=".github/image2.jpg">
+</h1>
+
 ## :computer: Tecnologias - Technologies 
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
